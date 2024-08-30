@@ -14,7 +14,7 @@ body{
 .container{
     width: 500px;
     height: 500px;
-    background-color: rgba(0, 0, 0, 0.362);
+    background-color: rgba(0, 0, 255, 0.236);
     background-image: url('./images/background.png');
     background-blend-mode: overlay;
     background-position: center;
@@ -28,4 +28,5 @@ body{
 
 .container h1, .container p{
     color: white;
+    background-color: red;
 }
